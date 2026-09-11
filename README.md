@@ -1,5 +1,3 @@
-# embedded-c-programming
-C programming concepts and practical exercises focused on embedded systems development.
 # Embedded C Programming
 
 A collection of C programming concepts, practice programs, and mini-projects focused on building a strong foundation for Embedded Systems development.
